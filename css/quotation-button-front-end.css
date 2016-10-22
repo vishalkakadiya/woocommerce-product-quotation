@@ -1,0 +1,11 @@
+#quotation-button {
+	background: #f96f52 !important; 
+	top: 0; 
+}
+#quotation-message { 
+	top: 0; 
+	bottom: 10px; 
+}
+.checkout-button { 
+	top: 10px; 
+}
